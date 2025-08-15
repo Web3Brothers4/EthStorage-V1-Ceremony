@@ -17,7 +17,7 @@
   * At least 1 public repository  
   * Followings ≥ 5 accounts and atleast 1 or more followers
 
-**purchase a vps from [Xorek](https://xorek.cloud/en)**
+**Purchase a vps from [Xorek](https://xorek.cloud/en)**
   * this will save you from keeping your pc on continuously
 
 ## Follow The Guide :
