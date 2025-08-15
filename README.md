@@ -18,7 +18,8 @@
   * Followings ≥ 5 accounts and atleast 1 or more followers
 
 **Purchase a vps from [Xorek](https://xorek.cloud/en)**
-**Direct link to buy same specfication as mentioned [link](https://my.xorek.cloud/billmgr?startform=v2.vds.order.param)**
+**Direct link to buy same specfication as mentioned [link](https://my.xorek.cloud/billmgr?startform=v2.vds.order.param)
+**
   * this will save you from keeping your pc on continuously
 
 ## Follow The Guide :
